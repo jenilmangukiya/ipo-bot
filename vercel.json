@@ -1,0 +1,8 @@
+{
+  "cron": [
+    {
+      "path": "/api/gmp-bot",
+      "schedule": "0 9 * * *"
+    }
+  ]
+}
