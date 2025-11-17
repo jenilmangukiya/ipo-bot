@@ -1,5 +1,5 @@
 {
-  "cron": [
+  "crons": [
     {
       "path": "/api/gmp-bot",
       "schedule": "0 9 * * *"
